@@ -1,3 +1,9 @@
+nodejs-step (0.0.4-0sg0) unstable; urgency=low
+
+  * New upstream release
+
+ -- Wade Simmons <wade@simplegeo.com>  Wed, 25 May 2011 21:47:03 +0000
+
 nodejs-step (0.0.3-0sg11) UNRELEASED; urgency=low
 
   * UNRELEASED
